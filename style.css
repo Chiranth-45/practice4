@@ -1,1 +1,9 @@
-ECHO is on.
+
+body{
+    text-align: center;
+}
+
+p{
+    background-color: black;
+    color: white;
+}
