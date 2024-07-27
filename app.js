@@ -1,7 +1,7 @@
 let btn=document.querySelector("button");
 let inp=document.querySelector("input");
 let list=document.querySelector("ul");
-
+ 
 btn.addEventListener("click",function(){
     // console.log("button clicked");
     let item=document.createElement("li");
