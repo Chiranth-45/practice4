@@ -12,7 +12,7 @@ btn.addEventListener("click",function(){
     let delbtn=document.createElement("button");
     delbtn.innerText="delete";
     item.append(delbtn);
-});
+}); 
 list.addEventListener("click",function(event){
    if(event.target.nodeName="BUTTON"){
         let listitem =event.target.parentElement; 
